@@ -1,0 +1,12 @@
+﻿  task4_oop_stock.cpp
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\order.h(17,45): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "task4_oop_stock.cpp")
+  
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\delivery.h(92,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "task4_oop_stock.cpp")
+  
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\task4_oop_stock.cpp(24,30): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\task4_oop_stock.cpp(36,89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\task4_oop_stock.cpp(55,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Emil\source\repos\task4_oop_stock\task4_oop_stock\task4_oop_stock.cpp(101,34): warning C4305: *=: усечение из "double" в "float"
+  task4_oop_stock.vcxproj -> C:\Users\Emil\source\repos\task4_oop_stock\x64\Debug\task4_oop_stock.exe
